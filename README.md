@@ -1,4 +1,4 @@
-                                                          📊 Exploratory Data Analysis (EDA) on Titanic Dataset
+                                                      📊 Exploratory Data Analysis (EDA) on Titanic Dataset
 
 📁 Project Overview - 
 This project is part of Task 5 in the virtual internship program. The goal is to explore and understand the Titanic dataset using Python-based tools and extract meaningful insights using statistical and visual techniques.
